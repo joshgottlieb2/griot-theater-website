@@ -1,4 +1,8 @@
 
+body {
+    margin: 0px
+}
+
 .header-container {
     
     background-color:black;
@@ -6,13 +10,21 @@
     align-items: center;
     height: 50px;
     font-family: Tiro Devanagari Sanskrit;
-
+    margin: 0px;
 }
 
 .header-logo {
     display: flex;
     margin-left: 70px;
 
+}
+
+h1 {
+    margin-right: 15%;
+}
+
+li {
+    margin-top: 4px;
 }
 
 nav {
@@ -23,6 +35,7 @@ nav {
     display: flex;
     list-style-type: none;
     gap: 20px;
+    align-items: center;
 }
 
 

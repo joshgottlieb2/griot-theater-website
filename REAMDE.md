@@ -1,0 +1,1 @@
+This is my Griot Theater front end project. Enjoy!
